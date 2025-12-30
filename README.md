@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2020a+-yellow?logo=mathworks)
 ![Medical Imaging](https://img.shields.io/badge/Medical-Imaging-brightgreen)
-![Research](https://img.shields.io/badge/Research-Project-orange)
 ![Computer Vision](https://img.shields.io/badge/Computer-Vision-lightgrey)
 ![Research Project](https://img.shields.io/badge/Research-Project-black)
 
