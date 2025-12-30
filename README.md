@@ -1,5 +1,5 @@
 # Aneurysm Neck Plane Extraction - Python Implementation
-## Projet complexe de troisième année  en partenariat avec le laboratoire LATIM & CHU de Brest - Spécialisation à l'IMT Atlantique
+## Projet complexe de troisième année  en partenariat avec le laboratoire LATIM & CHU de Brest - Spécialisation santé à l'IMT Atlantique
 
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
