@@ -5,6 +5,11 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2020a+-yellow?logo=mathworks)
 ![Medical Imaging](https://img.shields.io/badge/Medical-Imaging-brightgreen)
+![NumPy](https://img.shields.io/badge/NumPy-1.24+-blue?logo=numpy)
+![SciPy](https://img.shields.io/badge/SciPy-1.11+-orange?logo=scipy)
+![scikit-image](https://img.shields.io/badge/scikit--image-0.21+-yellowgreen)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8+-red?logo=matplotlib)
+![skfmm](https://img.shields.io/badge/skfmm-latest-lightblue)
 ![Computer Vision](https://img.shields.io/badge/Computer-Vision-lightgrey)
 ![Research Project](https://img.shields.io/badge/Research-Project-black)
 
