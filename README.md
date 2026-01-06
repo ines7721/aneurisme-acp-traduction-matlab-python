@@ -1,4 +1,4 @@
-# Aneurysm Neck Plane Extraction - Python Implementation
+# Extraction du plan du collet d'anévrismes - Implementation Python
 ## Projet complexe de troisième année  en partenariat avec le laboratoire LATIM & CHU de Brest - Spécialisation santé à l'IMT Atlantique
 
 
